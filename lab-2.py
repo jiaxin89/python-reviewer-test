@@ -1,5 +1,4 @@
 
-operations_count = 0
 
 def main():
     operations_count = 0
